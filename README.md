@@ -58,8 +58,8 @@ Ecommers_web_site/
 
 > Add a screenshot of the site here:
 > 
-> `<img width="1890" height="863" alt="image" src="https://github.com/user-attachments/assets/0598b738-e928-4d79-b07d-73c570824b05" />
-`
+> <img width="1890" height="863" alt="Screenshot 2026-10-30 150144" src="https://github.com/user-attachments/assets/3ed04c47-a836-453b-8a66-d74ad8ea337a" />
+
 
 ## Future Improvements
 
